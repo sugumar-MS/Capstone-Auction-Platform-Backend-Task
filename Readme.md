@@ -37,3 +37,9 @@ Ensure you have the following installed on your local machine:
    ```bash
    git clone https://github.com/sugumar-MS/Capstone-Auction-Platform-Backend-Task.git
    cd auction-platform-backend
+
+**Running the Application**
+   ```bash
+   npm run dev
+   # or
+   yarn dev
